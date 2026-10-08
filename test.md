@@ -5,3 +5,5 @@
 > git add "filename" - adding file to the staging area
 
 > git add . - add every file
+
+> git commit -m "message" - creating a commit
