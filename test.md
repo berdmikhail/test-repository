@@ -9,3 +9,5 @@
 > git commit -m "message" - creating a commit
 
 branch test1
+
+test error text
